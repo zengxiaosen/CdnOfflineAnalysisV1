@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cdn-offline-analysis:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/cdn_offline_analysis_jar</output-path>
+    <root id="archive" name="cdn-offline-analysis.jar">
+      <element id="module-output" name="cdn-offline-analysis" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/joda-time/joda-time/2.3/joda-time-2.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
